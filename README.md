@@ -31,8 +31,6 @@ This project predicts customer churn using machine learning. Built during my int
    pip install -r Customer_Churn_Prediction_Requirements_txt.txt
 
 
-<img width="540" alt="6" src="https://github.com/user-attachments/assets/f20acb9d-2f8a-4070-8f75-3b58b20be0a2" />
-
 <img width="540" alt="7" src="https://github.com/user-attachments/assets/73536a78-f83b-4b58-9f3b-03c23b9feeec" />
 
 <img width="960" alt="8" src="https://github.com/user-attachments/assets/85ca751f-8170-419e-a226-f9abf4aac31f" />
